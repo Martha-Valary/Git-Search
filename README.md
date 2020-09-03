@@ -1,4 +1,4 @@
-# GithubSearch application
+# GithubSearch Application
 
 # Author 
 [Martha Valary](https://github.com/Martha-Valary/Github)
@@ -30,8 +30,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Live Page 
-https://martha-valary.github.io/Github/.
-
+https://martha-valary.github.io/Git-Search/.
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
