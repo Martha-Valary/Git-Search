@@ -1,7 +1,7 @@
 # GithubSearch Application
 
 # Author 
-[Martha Valary]
+[Martha Valary](https://github.com/Martha-Valary/Github)
 
 # Description
 This project is a web application for searching github accounts with their public repositories. The users enters the github username and press search button and is able to view his/her Github details. 
